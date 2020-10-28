@@ -30,3 +30,4 @@ link github si 2019
 23. TiaMonika
 24. Hadiyanjo
 25. Redi
+26. aldoa208
